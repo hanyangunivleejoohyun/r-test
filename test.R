@@ -1,6 +1,2 @@
 test.a <-c(1,2,3)
 test.b <-c(5,6,7)
-test.c <-c(12,21,2)
-test.d<-c(1,2,3,2)
-test.e<-c("dsads")
-test.f<-c("dsadsaa")
