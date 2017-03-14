@@ -1,3 +1,5 @@
 test.a <-c(1,2,3)
 test.b <-c(5,6,7)
-test.c <- c(1,2,3,4)
+test.c.master <- c(1,2,3,4)
+test.c<-c(59,1,4)
+test.d<-c("59,1,4")
