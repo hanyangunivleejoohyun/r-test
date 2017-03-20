@@ -41,3 +41,5 @@ kwic <- function(file,position,num){
   }
   return(temp.kwic.v)
 }
+
+dsadasdas
